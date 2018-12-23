@@ -1,3 +1,6 @@
+#The file has been created with Raspberry Pi (RP) Python
+#Sits in RP's SD card, under: /home/pi
+
 from picamera import PiCamera
 from time import sleep
 
